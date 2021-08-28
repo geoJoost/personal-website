@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Test
+bio: TestTest
 
 # Interests to show in About widget
 interests:
