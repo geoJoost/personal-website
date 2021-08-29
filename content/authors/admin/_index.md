@@ -72,6 +72,6 @@ highlight_name: false
 
 I am currently enrolled as a student at the HZ University of Applied Sciences, pursuing an undergraduate degree. I am majoring in Water Management (specialization: Aquatic Ecotechnology) and obtained my minor in Geo-Information from Wageningen University & Research. I am interested in the field of Earth Observation and am seeking exciting opportunities related to the same.
 
-My personal interest is to combine both fields to develop and generate new data such as remotely sensed water quality parameters or (near) real-time flood monitoring. 
+My personal interest is to combine both fields to develop and implement new technologies such as remotely sensed water quality parameters or (near) real-time flood monitoring. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
