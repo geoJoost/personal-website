@@ -23,11 +23,11 @@ feature:
 - description: 90%
   icon: hand-holding-water
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Water management
+- description: 70%
+  icon: database
   icon_pack: fas
-  name: Photography
+  name: Postgres/PostGIS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
