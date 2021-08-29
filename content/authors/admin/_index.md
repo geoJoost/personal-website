@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: TestTest
+bio: Test1
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: TestTestTest
+  - course: Test1
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
