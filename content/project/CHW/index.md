@@ -27,14 +27,16 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 One of the major projects I worked at during my internship at Deltares was for the Coastal Hazard Wheel ('CHW'). This is
 a framework created by Lars Appelquist from the UN Environment Programme to “Manage coastal
-challenges from local to global level”. This application can be used for classifying coastal locations worldwide and producing hazard maps for the hazards of ecosystem disruption, gradual inundation, salt water intrusion, erosion and flooding under the projected climate change.
+challenges from local to global level”. The application can be used for classifying coastal locations worldwide and producing hazard maps for the hazards of ecosystem disruption, gradual inundation, salt water intrusion, erosion and flooding under the projected climate change.
 
-During this period, I assisted the team members through several tasks; 1) update and acquire new datasets, frequently used sources were the USGS, UNEP-WCMC and OpenStreetMap. These were processed using Python and SQL (PostGIS). Afterwards, 2) I had to make sure that all data was uploaded into the correct database using PostgreSQL and PostGIS. At last, 3) I had to connect the database to GeoServer and create vizualisations of the data used. This was my first time using geo-information in a professional setting. During the 7-month period I learned a great deal about geo-information, programming and data management.
+Within this project, I assisted the team members through several tasks; 1) updating and acquire new datasets with frequently used sources as the USGS, UNEP-WCMC and OpenStreetMap. These were processed using Python and SQL (PostGIS). Afterwards, 2) I had to make sure that all data was uploaded into the correct database using PostgreSQL and PostGIS. At last, 3) I had to connect the database to GeoServer and create vizualisations of the data used. 
+
+During this 7-month internship I learned quite a lot about creating webmaps, got my first introduction into programming  and experienced the usage of geo-information in a professional setting.
 
 To view the results of my internship, check out the Coastal Hazard Wheel Application at chw20.netlify.com
 
