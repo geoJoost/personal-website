@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-One of the major projects I worked at during my internship at Deltares was for the Coastal Hazard Wheel ('CHW'). This is
+One of the major projects I worked at during my internship at Deltares was for the [Coastal Hazard Wheel](https://www.coastalhazardwheel.org/). This is
 a framework created by Lars Appelquist from the UN Environment Programme to “Manage coastal
 challenges from local to global level”. The application can be used for classifying coastal locations worldwide and producing hazard maps for the hazards of ecosystem disruption, gradual inundation, salt water intrusion, erosion and flooding under the projected climate change.
 
@@ -47,4 +47,4 @@ Within this project, I assisted the team members through several tasks; 1) updat
 
 During this 7-month internship I learned quite a lot about creating webmaps, got my first introduction into programming  and experienced the usage of geo-information in a professional setting.
 
-To view the results of my internship, check out the Coastal Hazard Wheel Application at chw20.netlify.com
+To view the results of my internship, check out the [Coastal Hazard Wheel Application](https://chw20.netlify.app/)
