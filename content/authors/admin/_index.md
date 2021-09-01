@@ -74,4 +74,4 @@ I am currently enrolled as a student at the HZ University of Applied Sciences, p
 
 My personal interest is to combine the best of both fields to develop water quality and flood monitoring systems for coastal and estuarine regions. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
