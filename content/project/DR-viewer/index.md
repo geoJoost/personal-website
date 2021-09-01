@@ -4,7 +4,7 @@
 title: "DR Viewer"
 summary: ""
 authors: []
-tags: []
+tags: [Deltares, Geovisualization, webmapping]
 categories: []
 date: 2021-08-31T11:30:30+02:00
 

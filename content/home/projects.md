@@ -30,8 +30,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Deltares
+    tag: Deltares
   - name: Other
     tag: Demo
 
