@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 60%
+- description: ''
   icon: python
   icon_pack: fab
   name: Python
-- description: 90%
+- description: ''
   icon: hand-holding-water
   icon_pack: fas
   name: Water management
-- description: 70%
+- description: ''
   icon: database
   icon_pack: fas
   name: PostgreSQL / PostGIS
