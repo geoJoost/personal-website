@@ -6,7 +6,7 @@ summary: "Coastal classification through the Coastal Hazard Wheel"
 authors: [admin]
 tags: [Deltares, Geovisualization]
 categories: []
-date: 2021-09-01T17:33:42+02:00
+date: 2021-02-05T17:33:42+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
