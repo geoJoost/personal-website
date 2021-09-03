@@ -3,7 +3,7 @@
 
 title: "Terrain dependency of deforestation in Borneo"
 summary: "Research into the relationship between deforestation and slope/elevation"
-authors: []
+authors: [admin]
 tags: [Wageningen UR, programming]
 categories: []
 date: 2021-07-02T22:15:57+02:00

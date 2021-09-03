@@ -4,7 +4,7 @@
 title: "The Coastal Hazard Wheel Application"
 summary: "Coastal classification through the Coastal Hazard Wheel"
 authors: [admin]
-tags: [Deltares, Geovisualization]
+tags: [Deltares, Geovisualization, webmapping]
 categories: []
 date: 2021-02-05T17:33:42+02:00
 
