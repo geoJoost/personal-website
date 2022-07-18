@@ -6,15 +6,15 @@ title: Joost van Dalen
 superuser: true
 
 # Role/position/tagline
-role: BSc student
+role: MSc student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HZ University of Applied Sciences
+- name: Wageningen University & Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Combining water management with geo-information
+bio: Fascinated with maps, data and the environment
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: MSc, Geo-Information Science
+    institution: Wageningen University & Research
+    year: 2024
   - course: BSc, Water Management
     institution: HZ University of Applied Sciences
     year: 2022
@@ -69,9 +72,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Fascinated with data, maps and the environment. Can talk for hours about water resources management and creating the perfect graph. After finishing my BSc in Water Management, I decided to pursue an MSc in Geo-Information Science at Wageningen University & Research.
 
-I am currently enrolled as a student at the HZ University of Applied Sciences, pursuing an undergraduate degree. I am majoring in Water Management (specialization: Aquatic Ecotechnology) and obtained my minor in Geo-Information from Wageningen University & Research. I am interested in the field of Earth Observation and am seeking exciting internship opportunities related to the same.
-
-My personal interest is to combine the best of both fields to develop water quality and flood monitoring systems for coastal and estuarine regions. 
+My personal interest is to combine the best of both studies and develop tools to monitor and forecast information on water quantity and/or water quality using earth observation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_JoostVanDalen.pdf" "newtab" >}}resumé{{< /staticref >}}.
