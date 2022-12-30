@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Joost van Dalen
+title: Joost van Dalen TEST
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: BSc student
+role: MSc student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HZ University of Applied Sciences
+- name: Wageningen University & Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Combining water management with geo-information
+bio: ombining water management with geo-information
 
 # Interests to show in About widget
 interests:
