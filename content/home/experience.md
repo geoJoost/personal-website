@@ -22,6 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Graduate Intern
+    company: The Ocean Cleanup | Data & Monitoring
+    company_url: ''
+    company_logo: org-theoceancleanup
+    location: Rotterdam, the Netherlands
+    date_start: '2022-02-07'
+    date_end: '2022-07-07'
+
+    description: |2-
+        Thesis title: "Floating Macroplastic in the Riverine Environment: Assessment and Application of Quantification Methods for Macroplastic Emissions"
+        
+        Responsibilities include:
+        
+        * Literature review related to the quantification of macroplastic in riverine environments 
+        * Data wrangling and processing of >43,000 field-based measurements on macroplastic emissions in 40 different rivers
+        * Creating an easy-to-use application to gain information on the quantity, composition, and spatial-temporal fluxes of macrolitter and macroplastic 
+
   - title: Intern
     company: Deltares | Data Science & Waterquality
     company_url: ''

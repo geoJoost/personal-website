@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: ''
+- description: ' '
   icon: python
   icon_pack: fab
   name: Python
-- description: ''
+- description: ' '
   icon: hand-holding-water
   icon_pack: fas
-  name: Water management
-- description: ''
+  name: Water Resources Management
+- description: ' '
   icon: database
   icon_pack: fas
   name: PostgreSQL / PostGIS
+- description: ' '
+  icon: layer-group
+  icon_pack: fa
+  name: QGIS / ArcGIS Pro
+- description: ' '
+  icon: globe-asia
+  icon_pack: fas
+  name: Riverine Macroplastic
+- description: ' '
+  icon: map-marked-alt
+  icon_pack: fa
+  name: Data Visualization
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

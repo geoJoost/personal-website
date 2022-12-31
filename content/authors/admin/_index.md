@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joost van Dalen TEST
+title: Joost van Dalen
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,26 +14,26 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ombining water management with geo-information
+bio: Fascinated with maps and water
 
 # Interests to show in About widget
 interests:
 - Earth Observation
-- Water Quality
-- Geovisualization
+- Water Resources Management
+- Data Visualization
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc, Water Management
-    institution: HZ University of Applied Sciences
-    year: 2022
-  - course: Minor, Geo-Information
+  - course: MSc, Geo-Information Science
     institution: Wageningen University & Research
-    year: 2021
+   # year: --
+  - course: BSc, Aquatic Ecotechnology
+    institution: HZ University of Applied Sciences
+   # year: 2022
   - course: MBO-4, Watermanagement
     institution: Lentiz MBO Westland
-    year: 2018
+   # year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -54,7 +54,7 @@ social:
   link: https://github.com/geoJoost
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jvdalen/
+  link: https://www.linkedin.com/in/jvdalen/?locale=en_US
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am currently enrolled as a student at the HZ University of Applied Sciences, pursuing an undergraduate degree. I am majoring in Water Management (specialization: Aquatic Ecotechnology) and obtained my minor in Geo-Information from Wageningen University & Research. I am interested in the field of Earth Observation and am seeking exciting internship opportunities related to the same.
+Joost van Dalen is an environmental geographer studying at Wageningen University & Research. He has always been fascinated with maps and the environment and is now making a full-time career out of both. After finishing his MBO and BSc in Water Management, he is now enrolled in the MSc programme of Geo-Information Science. From here the goal is to integrate remote sensing technologies and water resources management to study water quality and water quantity issues in aquatic environments.
 
-My personal interest is to combine the best of both fields to develop water quality and flood monitoring systems for coastal and estuarine regions. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_JoostVanDalen.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_JoostVanDalen.pdf" "newtab" >}}resume{{< /staticref >}}.

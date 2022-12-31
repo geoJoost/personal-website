@@ -41,7 +41,7 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Joost van Dalen
-    link: 'https://www.linkedin.com/in/jvdalen/'
+    link: 'https://www.linkedin.com/in/jvdalen/?locale=en_US'
   #- icon: skype
     #icon_pack: fab
     #name: Skype Me
@@ -100,11 +100,11 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: '© 2023 Me. This work is licensed under [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
 abstract_length: 135
 plugins_js: []
 avatar:
