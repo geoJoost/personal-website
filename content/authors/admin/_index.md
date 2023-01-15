@@ -69,7 +69,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am Joost van Dalen, an environmental geographer studying at Wageningen University & Research. I have always been fascinated with maps and the environment and I am now making a full-time career out of both. 
 
-Joost van Dalen is an environmental geographer studying at Wageningen University & Research. He has always been fascinated with maps and the environment and is now making a full-time career out of both. After finishing his MBO and BSc in Water Management, he is now enrolled in the MSc programme of Geo-Information Science. From here the goal is to integrate remote sensing technologies and water resources management to study water quality and water quantity issues in aquatic environments.
+After finishing my MBO and BSc in Water Management, I enrolled in the MSc programme of Geo-Information Science. From here my goal is to integrate remote sensing technologies and water resources management to study water quality and water quantity issues in the aquatic environment.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_JoostVanDalen.pdf" "newtab" >}}resume{{< /staticref >}}.
