@@ -4,7 +4,7 @@
 title: "Webviewer Dominican Republic"
 summary: "Interactive viewing of 300+ datasets"
 authors: [admin]
-tags: [Deltares, Geovisualization, webmapping]
+tags: [Deltares, geovisualization, webmapping]
 categories: []
 date: 2020-12-05T11:30:30+02:00
 
