@@ -44,8 +44,7 @@ TL;DR
 - {{< staticref "uploads/oxbowlakes-interactiveMap.html" "newtab" >}} Interactive map of the oxbow lakes in western New Guinea{{< /staticref >}}
 -	[Source code on Gitlab](https://git.wur.nl/geoscripting-2023-january/staff/project/Project_Starter-Porco_Rosso)
 
-For the course Geoscripting at Wageningen University & Research, we learned to do process geospatial data using R, Python, bash and Google Earth Engine. In the final week, we had the opportunity to integrate all that knowledge in a single project. Together with my group members[^1], we devised to create an algorithm that can distinguish oxbow lakes from Sentinel-1 SAR imagery.
-
+For the course Geoscripting at Wageningen University & Research, we learned to do process geospatial data using R, Python, bash and Google Earth Engine. In the final week, we had the opportunity to integrate all that knowledge in a single project. Together with my group members[^1], we created an algorithm that can distinguish oxbow lakes from Sentinel-1 synthetic aperture radar (SAR) imagery.
 
 For the (many) who are not aware what an oxbow lake is; they are crucial freshwater wetland ecosystems that are formed when the neck of a meandering river is breached. Over time the old meander of the river will be disconnected from the main channel through sediment deposition, like depicted below[^2].
 
@@ -53,7 +52,7 @@ For the (many) who are not aware what an oxbow lake is; they are crucial freshwa
  
 When visualized using a time series of satellite imagery, the effect becomes even more pronounced as [seen in our study area of western New Guinea](https://earthengine.google.com/timelapse#v=-3.31616,139.0256,10.624,latLng&t=0.35&ps=25&bt=19840101&et=20201231&startDwell=0&endDwell=0)
 
-In brief the method is done in the following steps:
+In brief, the following method was used:
 ![](figure_oxbowlakes-method.png "Method used to detect oxbow lakes from SAR data")
  
 Which lead to the following results: 
@@ -61,7 +60,7 @@ Which lead to the following results:
 - Dynamic map (GIF)
 - Static map
 
-First, was the interactive map of the area where the user can pan and zoom to their desired location. The Leaflet map also allows users to select the year of their choice while also having the option to (de-)select the showing of ‘normal’ or oxbow lakes. {{< staticref "uploads/oxbowlakes-interactiveMap.html" "newtab" >}}Test it yourself with this link!{{< /staticref >}}.
+First, was the interactive map of the area where the user can pan and zoom to their desired location. The Leaflet map also allows users to select the year of their choice while also having the option to (de-)select the showing of ‘normal’ or oxbow lakes. {{< staticref "uploads/oxbowlakes-interactiveMap.html" "newtab" >}}Test it yourself with this link!{{< /staticref >}}
 
 ![](figure_oxbowlakes-html.png "Screenshot of the interactive map in Leaflet")
 
@@ -73,9 +72,10 @@ The last method is a static map of all the water features found within the study
 
 ![](figure_oxbowlakes-static2019.png "Static map of the water features in western New Guinea [2019]")
 
-The past four days were intense but very rewarding. In just four days of coding we managed to make a pretty decent algorithm at identifying oxbow lakes from SAR data. During the course I also learned how to script in R, while also getting more experience with Python. It was also a fun experiment to integrate different programming languages in Bash, and to work together through Git.
+The past four days were intense but were rewarding. In a short amount of time, we managed to write an algorithm that is reasonably good at identifying oxbow lakes from SAR data. Personally, I improved a lot in my scripting abilities (both R and Python) while also learning how to use Bash.
 
 Feel free to download and re-use the [code available on Gitlab!](https://git.wur.nl/geoscripting-2023-january/staff/project/Project_Starter-Porco_Rosso)
+
 
 [^1]:*With Isaura Menezes de Oliveira Guido, Isabeau Verbrugge, Wessel van Leesten & Nikolas Theofanous*
 [^2]: Image sourced from [Internet Geography](https://www.internetgeography.net/flashcard/draw-a-simple-diagram-to-show-the-formation-of-an-oxbow-lake/)
