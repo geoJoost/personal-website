@@ -42,7 +42,7 @@ slides: ""
 TL;DR
 - We identified oxbow lakes from Sentinel-1 (SAR) and auxillary data from the [Global Surface Water Explorer](https://global-surface-water.appspot.com/download)
 - {{< staticref "uploads/oxbowlakes-interactiveMap.html" "newtab" >}} Interactive map of the oxbow lakes in western New Guinea{{< /staticref >}}
--	[Source code on Gitlab](https://git.wur.nl/geoscripting-2023-january/staff/project/Project_Starter-Porco_Rosso)
+-	[Source code on Github](https://github.com/geoJoost/oxbow-lake-detection)
 
 For the course Geoscripting at Wageningen University & Research, we learned to do process geospatial data using R, Python, bash and Google Earth Engine. In the final week, we had the opportunity to integrate all that knowledge in a single project. Together with my group members[^1], we created an algorithm that can distinguish oxbow lakes from Sentinel-1 synthetic aperture radar (SAR) imagery.
 
@@ -74,7 +74,7 @@ The last method is a static map of all the water features found within the study
 
 The past four days were intense but were rewarding. In a short amount of time, we managed to write an algorithm that is reasonably good at identifying oxbow lakes from SAR data. Personally, I improved a lot in my scripting abilities (both R and Python) while also learning how to use Bash.
 
-Feel free to download and re-use the [code available on Gitlab!](https://git.wur.nl/geoscripting-2023-january/staff/project/Project_Starter-Porco_Rosso)
+Feel free to download and re-use the [code available on Github!](https://github.com/geoJoost/oxbow-lake-detection)
 
 
 [^1]:*With Isaura Menezes de Oliveira Guido, Isabeau Verbrugge, Wessel van Leesten & Nikolas Theofanous*
