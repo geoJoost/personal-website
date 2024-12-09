@@ -22,7 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Intern / Thesis Student
+  - title: Research Intern
+    company: German Research Centre for Geosciences (GFZ-Potsdam) | Remote Sensing and Geoinformatics
+    company_url: ''
+    company_logo: org-gfz
+    location: Potsdam, Germany
+    date_start: '2024-09-04'
+    date_end: '2025-02-28'
+
+    description: |2-       
+        Responsibilities include:
+        
+        * Spectral analysis of marine litter windrows using Sentinel-2 and PlanetScope
+        * Developed TRACEv2, a machine learning model for marine litter windrow detection in PlanetScope imagery
+        * Integrated predictions with an oceanographic forecasting model to track windrow movement and predict potential impact areas in the Adriatic Sea 
+
+  - title: River Data Intern
     company: The Ocean Cleanup | Data & Monitoring
     company_url: ''
     company_logo: org-theoceancleanup
@@ -53,20 +68,6 @@ experience:
         Coastal Hazard Wheel Application
         * Processing of spatial data using SQL (PostGIS), GDAL and Python
         * Creation of webmaps for the Coastal Hazard Wheel, Dutch National Hydrological Instrument and the department of Infrastructure of the Dominican Republic using GeoServer
-        
-  - title: Graduate intern
-    company: Provincie Zuid-Holland | department of Infrastructure
-    company_url: ''
-    company_logo: org-PZH
-    location: The Hague, the Netherlands
-    date_start: '2017-11-01'
-    date_end: '2018-07-05'
-    description: |2- 
-        Responsibilities include:
-
-        * Research on implementation and design of exit facilities for humans and animals along the provincial waterways
-        * Writing of policy based on previous research
-        * Assisting in miscellaneous policy and maintenance activities
 
 design:
   columns: '2'
